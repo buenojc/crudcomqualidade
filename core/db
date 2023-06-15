@@ -1,1 +1,19 @@
-Teste de reload
+{
+  "todos": [
+    {
+      "date": "2023-06-15T22:49:13.571Z",
+      "content": "Primeira TODO",
+      "done": false
+    },
+    {
+      "date": "2023-06-15T22:49:13.572Z",
+      "content": "Segunda TODO",
+      "done": false
+    },
+    {
+      "date": "2023-06-15T22:49:13.573Z",
+      "content": "Terceira TODO",
+      "done": false
+    }
+  ]
+}
